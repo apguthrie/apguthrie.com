@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christopher Grubb"
+title                    : "Adeline P. Guthrie "
 title_separator          : "-"
-name                     : &name "Christopher Grubb"
-description              : &description "Research Scientist"
-url                      : https://ctgrubb.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Adeline P. Guthrie"
+description              : &description "Ph.D. Student"
+url                      : https://apguthrie.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ctgrubb/ctgrubb.com"
+repository               : "apguthrie/apguthrie.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christopher Grubb"
+  name             : "Adeline P. Guthrie"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist"
+  bio              : "Ph.D. Student"
   location         : "Blacksburg, Virginia, USA"
-  employer         : "CBHDS, Virginia Tech"
+  employer         : "Department of Statistics, Virginia Tech"
   pubmed           : 
   googlescholar    : 
-  email            : "ctgrubb@vt.edu"
+  email            : "apguthrie@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ctgrubb"
+  github           : "apguthrie"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5971-8138"
+  orcid            : #"https://orcid.org/0000-0001-5971-8138"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
