@@ -11,8 +11,13 @@ redirect_from:
 
 Education
 ======
-* PhD in Statistics, Virginia Tech, 2023
-* B.S. in Mathematics, Millersville University, 2016
+* Ph.D. in Statistics, Virginia Tech, Expected May 2024
+  - Advisor: Dr. Christopher T. Franck
+  - Dissertation: *Boldness-Recalibration for Binary Event Predictions*
+* M.S. in Statistics, Virginia Tech, Expected May 2021
+* B.S. in Mathematics, Millersville University, May 2019
+  - Concentrations: Statistics, Actuarial Science
+  - Minor: Computer Science
 
 Work experience
 ======
