@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download full CV](/files/Guthrie_Adeline_CV.pdf)
+
 Education
 ======
 * Ph.D. in Statistics, Virginia Tech, Expected May 2024
@@ -19,14 +21,19 @@ Education
   - Concentrations: Statistics, Actuarial Science
   - Minor: Computer Science
 
-Work experience
+Consulting and Work experience
 ======
-* ***Research Scientist*, Center for Biostatistics and Health Data Science** (Aug 2023 - Present). Help medical student students with statistics within research domain projects. Assist faculty researchers within the medical school and affiliated researchers with NIH grant submissions and research projects. Host drop-in hours for statistical support available to medical school students as well as students and faculty from the university at large.
-* ***Lead Collaborator*, Statistical Applications and Innovations Group** (May 2017 - May 2021). Helped approximately 100 graduate students and university faculty with statistics important for their masters' theses, dissertations, or publications. Taught several short courses (virtual and in-person) on base R graphics, R graphics using `ggplot2`, categorical data analysis, and regression and ANOVA. I also worked on a number of special long-term projects and/or grants:
-	1. *Lung Health Sensors* (05/2021 - 05/2022). Fit random-effcts linear models and performed sensitivity analysis for a grant project focused on finding a ventilator that inflicts less lung damage from long-term use. 
-	2. *VT Covid-19 Wastewater Monitoring* (09/2020 - 05/2021). Automated the gathering and merging of various data sources that updated daily, twice weekly, and weekly, while remaining HIPAA compliant. Investigated the relationship between virus shed in wastewater and outbreaks within university dormitories using generalized linear mixed effects models.
-	3. *VT Advancement* (12/2019 - 06/2020). Developed a codebase to automate data cleaning, feature synthesis, modeling, prediction, and report generation with the end goal of highlighting university alumni more likely to engage (donate to university, attend university events, etc) so that resources could be allocated more effectively.
+* ***Lead Statistical Collaborator*, Statistical Applications and Innovations Group (SAIG)** (Spring 2020, Spring 2021 - Fall 2023). Provided statistical consultation, including study design, data analysis, proposal and publication preparation, and code to faculty and graduate student researchers and industry professionals, from many fields. 
+
+Long-term projects and/or funded projects:
+	1. *Factors Associated with Behavioral Euthanasia in Pet Dogs* (06/2022 - Present). DESCRIPTION - [See corresponding publication.](https://apguthrie.com/publication/2022-04-17) Subsequent publication(s) to follow.
+	2. *Perceptions of US Swine Industry Castration Practice* (10/2022 - 12/2023). DESCRIPTION - [See corresponding publication](https://apguthrie.com/publication/2023-12-22)
+	3. *VA811 Predictive Modeling Testing* (01/2022 - 09/2022). Tested and documented a predictive modeling pipeline for identifying problematic user-submitted tickets
+to be audited. Funded by VA811.
+	4. *Perception of Drone Delivery in the US* (01/2021 - 04/2021, 05/2022 - 09/2022). Identified noise as a key component of negative sentiment towards Wing delivery drones from survey data, which drove the decision to develop quieter propulsion systems. Project was part of the Virginia Tech Mid-Atlantic Aviation Partnership (MAAP) under the Unmanned Aircraft Systems (UAS) Integration Pilot Program. [See corresponding publication.](https://apguthrie.com/publication/2021-04-01)
+
 * ***Data Science Intern*, Microsoft** (Summer, 2019). Implemented deep feature synthesis for a then-unreleased product that became Power BI's Cognitive Services, an AutoML solution designed for corporations with little to no statistical or machine learning knowledge. 
+
 * ***Data Science Intern*, Microsoft** (Summer, 2018). Used market basket analysis to investigate the predictive power of transactional history within a recommender system for Xbox Store. Was required to learn a proprietary query language (SCOPE) that evolved into U-SQL.
 
 Publications
