@@ -244,6 +244,14 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+  # _talks
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
