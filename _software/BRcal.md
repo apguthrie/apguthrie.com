@@ -3,7 +3,7 @@ title: "BRcal: Boldness-Recalibration of Binary Events"
 collection: software
 permalink: /software/BRcal
 excerpt: ''
-date: 2024
+date: 2024-10-14
 venue: 'CRAN'
 paperurl: 'https://CRAN.R-project.org/package=BRcal'
 citation: '<b>Guthrie, Adeline P.</b>, and Christopher T. Franck. (2024). &quot;BRcal: Boldness-Recalibration of Binary Events.&quot; <i>R package version 1.0.1</i>.'
