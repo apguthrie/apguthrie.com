@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/adeline-guthrie/"
+  linkedin         : "www.linkedin.com/in/adeline-guthrie"
   orcid            : "https://orcid.org/0009-0000-1548-3648"
   pinterest        :
   soundcloud       :
@@ -247,7 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: false
-  # _talks
+  # _software
   - scope:
       path: ""
       type: software
