@@ -15,4 +15,5 @@ Boldness-recalibration maximally spreads out probability predictions while maint
 
 Version 0.0.4 accepted to CRAN on June 26, 2024.  Most recent version 1.0.1 uploaded to CRAN on October 14, 2024.
 
+BRcal GitHub repo: [https://github.com/apguthrie/BRcal](https://github.com/apguthrie/BRcal)
 
