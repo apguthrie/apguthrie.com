@@ -12,3 +12,6 @@ Welcome! I am currently a Ph.D. student in the Department of Statistics at Virgi
 
 My broader research interests include (but are not limited to) probability calibration and boldness, Bayesian statistics, computational statistical, optimization, statistical consulting, spatial statistics, and statistical modeling in sports, environmental science, social science, and animal science.
 
+![Virginia Tech Torgeson Bridge](/images/vt_torg_bridge.jpg)
+
+
