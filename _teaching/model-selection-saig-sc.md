@@ -9,4 +9,4 @@ location: "Blacksburg, Virginia, USA"
 ---
 
 Instruction of short course covering multiple linear regression basics, model diagnostics, and model
-selection techniques in R, 2-hour hybrid course, 13 students.
+selection techniques in R, 2-hour hybrid course, 13 students. **Taught in Fall 2023.**

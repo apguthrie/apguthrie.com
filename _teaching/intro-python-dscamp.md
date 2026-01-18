@@ -9,4 +9,4 @@ location: "Blacksburg, Virginia, USA"
 ---
 
 Created and delivered an interactive introductory Python course for 11th-12th Graders covering the basics
-of Python, Jupyter Notebooks, and Exploratory Data Analysis, 2-hour course, two sections of 28 students.
+of Python, Jupyter Notebooks, and Exploratory Data Analysis, 2-hour course, two sections of 28 students. **Taught in Summer 2024.**
