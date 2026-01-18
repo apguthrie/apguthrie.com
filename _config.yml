@@ -86,7 +86,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Assistant Professor of Statistics"
   location         : "Bryn Mawr, PA, USA"
-  employer         : "Department of Mathematics and Statistics, Villanova"
+  employer         : "Department of Mathematics and \n Statistics, Villanova University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8b6TXW8AAAAJ&hl=en"
   email            : "adeline.guthrie@villanova.edu"
