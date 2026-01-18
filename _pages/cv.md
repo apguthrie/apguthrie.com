@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* ***Ph.D. in Statistics*, Virginia Tech**, Expected May 2024
+* ***Ph.D. in Statistics*, Virginia Tech**, May 2025
   - Advisor: Dr. Christopher T. Franck
   - Dissertation: *Boldness-Recalibration for Binary Event Predictions*
 * ***M.S. in Statistics*, Virginia Tech**, May 2021
@@ -21,7 +21,7 @@ Education
   - Concentrations: Statistics, Actuarial Science
   - Minor: Computer Science
 
-Selected consulting and Work experience
+Selected Consulting and Prior Work Experience
 ======
 * ***Lead Statistical Collaborator*, Statistical Applications and Innovations Group (SAIG)** (Spring 2020, Spring 2021 - Fall 2023). Provided statistical consultation, including study design, data analysis, proposal and publication preparation, and code to faculty and graduate student researchers and industry professionals, from many fields. Long-term projects and/or funded projects:
 
@@ -47,7 +47,7 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
